@@ -1,7 +1,7 @@
 # Собирается scripts/release.sh из packaging/homebrew/smurno.rb.in — руками не править.
 cask "smurno" do
-  version "1.5.6"
-  sha256 "2e2f7d9185cd56cd5244391505d129608678e3cd7d67ab32a767897b17dc682d"
+  version "1.5.7"
+  sha256 "5de2915f5aaaf7b5375eacea3eb2455fcceffc3808196361f77aabd707d74bc8"
 
   url "https://github.com/dikdacksun/homebrew-smurno/releases/download/v#{version}/Smurno-#{version}.zip"
   name "Smurno"
